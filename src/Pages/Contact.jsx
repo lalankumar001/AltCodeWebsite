@@ -2,9 +2,11 @@ import React from 'react'
 
 const Contact = () => {
   return (
-    <div>Contact kAR le kiya kar raha bhai yai sab doglapan h ram ram karjajljafjdfjadjf 
-      <h3>ram ram ji yahi h </h3>
-    </div>
+<div>
+  <p>ram ram ji</p>
+  <h1>contact us bhai log </h1>
+</div>
+
   )
 }
 
